@@ -4,4 +4,7 @@
 		editFile("Dest.txt");
 		updateFile("Dest.txt");
 	}
+	class void updateFile(){
+		System.out.print("不會");
+	}
 }
